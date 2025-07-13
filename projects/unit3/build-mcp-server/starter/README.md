@@ -65,3 +65,6 @@ Instead of using rigid rules based on file extensions or patterns, your tools sh
 
 - Check the solution in `../solution/` if you get stuck
 - Remember: The goal is to give Claude the data it needs, not to implement complex logic yourself
+
+
+edit 17:10test
